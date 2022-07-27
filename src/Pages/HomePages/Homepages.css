@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Home_header {
+  display: flex;
+  background-color: rgb(235, 237, 239);
+  height: 600px;
+  min-height: 100vh;
+  flex-direction: column;
+  gap:10rem;
+  font-size: calc(10px + 2vmin);
+}
